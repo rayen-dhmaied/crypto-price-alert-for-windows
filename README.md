@@ -8,7 +8,7 @@ Modify the value of watchlist in the line 42
 (For example: watchlist='bitcoin,solana').
 
 Modify the value of change_rate in line 43
-(For example: change_rate=0.05 stand for a change rate of 5% up or down. )
+(For example: change_rate=0.05 stand for a change rate of 5% up or down.)
 
 Use alert_using_specific_price.py to get alert depending on the change rate of your targeted coin.
 
