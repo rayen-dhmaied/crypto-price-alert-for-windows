@@ -1,7 +1,7 @@
 # Crypto Prices Alert for Windows
 Crypto prices alerts using CoinGecko API and ToastNotifier for Windows notifications.
 
-## Usage
+## How To Use
 Use alert_using_change_rate.py to get alert depending on the change rate of your targeted coin.
 
 Modify the value of watchlist in the line 42 
